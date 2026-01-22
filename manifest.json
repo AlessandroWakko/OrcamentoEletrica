@@ -1,0 +1,36 @@
+{
+  "id": "com.orcaeletrica.app",
+  "name": "OrçaElétrica - Gestão de Orçamentos",
+  "short_name": "OrçaElétrica",
+  "description": "Gestão profissional de orçamentos para eletricistas profissionais com precificação inteligente.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#f4c025",
+  "orientation": "portrait",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2906/2906206.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2906/2906206.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Novo Orçamento",
+      "short_name": "Novo",
+      "description": "Criar um novo orçamento rapidamente",
+      "url": "#/new-step-1",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/2906/2906206.png", "sizes": "192x192" }]
+    }
+  ]
+}

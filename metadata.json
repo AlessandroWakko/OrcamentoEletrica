@@ -1,0 +1,7 @@
+{
+  "name": "OrçaElétrica - Gestão de Orçamentos",
+  "description": "Uma plataforma completa para eletricistas profissionais gerenciarem orçamentos, precificação e histórico de clientes com interface moderna e intuitiva.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
